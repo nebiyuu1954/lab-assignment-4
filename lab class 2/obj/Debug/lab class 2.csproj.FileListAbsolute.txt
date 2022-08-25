@@ -1,0 +1,29 @@
+C:\Users\NEBIYU\Desktop\neba\hilcoe\2nd year\1st term      (Spring 2022)\windows programing(CS223)\apps\Vscode\Programs\lab class 2\lab class 2\bin\Debug\lab class 2.exe.config
+C:\Users\NEBIYU\Desktop\neba\hilcoe\2nd year\1st term      (Spring 2022)\windows programing(CS223)\apps\Vscode\Programs\lab class 2\lab class 2\bin\Debug\lab class 2.exe
+C:\Users\NEBIYU\Desktop\neba\hilcoe\2nd year\1st term      (Spring 2022)\windows programing(CS223)\apps\Vscode\Programs\lab class 2\lab class 2\bin\Debug\lab class 2.pdb
+C:\Users\NEBIYU\Desktop\neba\hilcoe\2nd year\1st term      (Spring 2022)\windows programing(CS223)\apps\Vscode\Programs\lab class 2\lab class 2\obj\Debug\lab class 2.csproj.AssemblyReference.cache
+C:\Users\NEBIYU\Desktop\neba\hilcoe\2nd year\1st term      (Spring 2022)\windows programing(CS223)\apps\Vscode\Programs\lab class 2\lab class 2\obj\Debug\lab class 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\NEBIYU\Desktop\neba\hilcoe\2nd year\1st term      (Spring 2022)\windows programing(CS223)\apps\Vscode\Programs\lab class 2\lab class 2\obj\Debug\lab_class_2.login.resources
+C:\Users\NEBIYU\Desktop\neba\hilcoe\2nd year\1st term      (Spring 2022)\windows programing(CS223)\apps\Vscode\Programs\lab class 2\lab class 2\obj\Debug\lab_class_2.Properties.Resources.resources
+C:\Users\NEBIYU\Desktop\neba\hilcoe\2nd year\1st term      (Spring 2022)\windows programing(CS223)\apps\Vscode\Programs\lab class 2\lab class 2\obj\Debug\lab class 2.csproj.GenerateResource.cache
+C:\Users\NEBIYU\Desktop\neba\hilcoe\2nd year\1st term      (Spring 2022)\windows programing(CS223)\apps\Vscode\Programs\lab class 2\lab class 2\obj\Debug\lab class 2.csproj.CoreCompileInputs.cache
+C:\Users\NEBIYU\Desktop\neba\hilcoe\2nd year\1st term      (Spring 2022)\windows programing(CS223)\apps\Vscode\Programs\lab class 2\lab class 2\obj\Debug\lab class 2.exe
+C:\Users\NEBIYU\Desktop\neba\hilcoe\2nd year\1st term      (Spring 2022)\windows programing(CS223)\apps\Vscode\Programs\lab class 2\lab class 2\obj\Debug\lab class 2.pdb
+C:\Users\NEBIYU\Desktop\neba\hilcoe\2nd year\1st term      (Spring 2022)\windows programing(CS223)\apps\Vscode\Programs\lab class 2\lab class 2\obj\Debug\lab_class_2.Form1.resources
+C:\Users\NEBIYU\Desktop\neba\hilcoe\2nd year\1st term      (Spring 2022)\windows programing(CS223)\apps\Vscode\Programs\lab class 2\lab class 2\obj\Debug\lab_class_2.loginpage.resources
+C:\Users\NEBIYU\Desktop\neba\hilcoe\2nd year\1st term      (Spring 2022)\windows programing(CS223)\apps\Vscode\Programs\lab class 2\lab-assignment-4\lab class 2\bin\Debug\lab class 2.exe.config
+C:\Users\NEBIYU\Desktop\neba\hilcoe\2nd year\1st term      (Spring 2022)\windows programing(CS223)\apps\Vscode\Programs\lab class 2\lab-assignment-4\lab class 2\bin\Debug\lab class 2.exe
+C:\Users\NEBIYU\Desktop\neba\hilcoe\2nd year\1st term      (Spring 2022)\windows programing(CS223)\apps\Vscode\Programs\lab class 2\lab-assignment-4\lab class 2\bin\Debug\lab class 2.pdb
+C:\Users\NEBIYU\Desktop\neba\hilcoe\2nd year\1st term      (Spring 2022)\windows programing(CS223)\apps\Vscode\Programs\lab class 2\lab-assignment-4\lab class 2\obj\Debug\lab class 2.csproj.AssemblyReference.cache
+C:\Users\NEBIYU\Desktop\neba\hilcoe\2nd year\1st term      (Spring 2022)\windows programing(CS223)\apps\Vscode\Programs\lab class 2\lab-assignment-4\lab class 2\obj\Debug\lab class 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\NEBIYU\Desktop\neba\hilcoe\2nd year\1st term      (Spring 2022)\windows programing(CS223)\apps\Vscode\Programs\lab class 2\lab-assignment-4\lab class 2\obj\Debug\lab_class_2.Form1.resources
+C:\Users\NEBIYU\Desktop\neba\hilcoe\2nd year\1st term      (Spring 2022)\windows programing(CS223)\apps\Vscode\Programs\lab class 2\lab-assignment-4\lab class 2\obj\Debug\lab_class_2.login.resources
+C:\Users\NEBIYU\Desktop\neba\hilcoe\2nd year\1st term      (Spring 2022)\windows programing(CS223)\apps\Vscode\Programs\lab class 2\lab-assignment-4\lab class 2\obj\Debug\lab_class_2.loginpage.resources
+C:\Users\NEBIYU\Desktop\neba\hilcoe\2nd year\1st term      (Spring 2022)\windows programing(CS223)\apps\Vscode\Programs\lab class 2\lab-assignment-4\lab class 2\obj\Debug\lab_class_2.Properties.Resources.resources
+C:\Users\NEBIYU\Desktop\neba\hilcoe\2nd year\1st term      (Spring 2022)\windows programing(CS223)\apps\Vscode\Programs\lab class 2\lab-assignment-4\lab class 2\obj\Debug\lab class 2.csproj.GenerateResource.cache
+C:\Users\NEBIYU\Desktop\neba\hilcoe\2nd year\1st term      (Spring 2022)\windows programing(CS223)\apps\Vscode\Programs\lab class 2\lab-assignment-4\lab class 2\obj\Debug\lab class 2.csproj.CoreCompileInputs.cache
+C:\Users\NEBIYU\Desktop\neba\hilcoe\2nd year\1st term      (Spring 2022)\windows programing(CS223)\apps\Vscode\Programs\lab class 2\lab-assignment-4\lab class 2\obj\Debug\lab class 2.exe
+C:\Users\NEBIYU\Desktop\neba\hilcoe\2nd year\1st term      (Spring 2022)\windows programing(CS223)\apps\Vscode\Programs\lab class 2\lab-assignment-4\lab class 2\obj\Debug\lab class 2.pdb
+C:\Users\NEBIYU\Desktop\neba\hilcoe\2nd year\1st term      (Spring 2022)\windows programing(CS223)\apps\Vscode\Programs\lab class 2\lab-assignment-4\lab class 2\obj\Debug\lab_class_2.mainframe.resources
+C:\Users\NEBIYU\Desktop\neba\hilcoe\2nd year\1st term      (Spring 2022)\windows programing(CS223)\apps\Vscode\Programs\lab class 2\lab-assignment-4\lab class 2\obj\Debug\lab_class_2.CustomControl1.resources
+C:\Users\NEBIYU\Desktop\neba\hilcoe\2nd year\1st term      (Spring 2022)\windows programing(CS223)\apps\Vscode\Programs\lab class 2\lab-assignment-4\lab class 2\obj\Debug\lab_class_2.UserControl1.resources
